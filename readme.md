@@ -4,12 +4,12 @@ This project is a **School Management System** built using **JavaScript, HTML, a
 
 ## Features
 
-- ** Student Management** – Add, update, delete, and view student details.
-- ** Teacher Management** – Maintain a list of teachers and their assigned subjects.
-- ** Course Management** – Manage courses, enroll students, and assign teachers.
-- ** Attendance Tracking** – Mark student attendance.
-- ** Local Storage Support** – Saves school data using the browser’s local storage.
-- ** Responsive UI** – Works well on desktop and mobile devices.
+- **Student Management** – Add, update, delete, and view student details.
+- **Teacher Management** – Maintain a list of teachers and their assigned subjects.
+- **Course Management** – Manage courses, enroll students, and assign teachers.
+- **Attendance Tracking** – Mark student attendance.
+- **Local Storage Support** – Saves school data using the browser’s local storage.
+- **Responsive UI** – Works well on desktop and mobile devices.
 
 ## Technologies Used
 
