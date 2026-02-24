@@ -62,3 +62,4 @@ School-Management-System/
 
 ### Developed by
 **Prajwal Devaraj**
+pdevaraj001@gmail.com
